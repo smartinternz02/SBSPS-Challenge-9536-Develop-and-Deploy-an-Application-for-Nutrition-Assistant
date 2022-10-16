@@ -1,0 +1,14 @@
+1.Getting Started with Enterprise Grade AI
+Link:https://www.credly.com/badges/d02c6353-2e00-43fd-ae0b-ead974e8b870/public_url
+
+2.Machine Learning with Python - Level 1
+Link:https://www.credly.com/badges/a550bba3-781a-47f1-a0ee-21116199170c/public_url
+
+3.Getting Started with Enterprise Data Science
+Link:https://www.credly.com/badges/40791e39-1f70-41ce-bf1b-e62b1e07e272/public_url
+
+4.Journey to Cloud: Envisioning Your Solution
+Link:https://www.credly.com/badges/01d0a674-801c-4b0e-badd-eca3cd34c019/public_url
+
+5.Deep Learning Essentials
+Link:https://www.credly.com/badges/a428df60-504f-4305-91e9-48a60cf90b49/public_url
